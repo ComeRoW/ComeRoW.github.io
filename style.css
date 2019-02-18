@@ -50,7 +50,7 @@ td {
 }
 .tables {
     background-color: rgb(192, 171, 212);
-    padding: 15px;
+    padding: auto;
     margin-bottom: 10px;
     margin-right: 150px;
     margin-left: 150px;
